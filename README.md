@@ -11,7 +11,7 @@ Leave logic - calculator - static
 Leave bucket - balance - dynamic
 Front end - Portal Request Form - record producer
 
-Step1 : Create the application.
+Step1 : Create the application.  
 Step 2 : Create Tables - Add fields - Add Choices - Pull choices from other table - advance view.
 
 
